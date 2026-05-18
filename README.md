@@ -30,21 +30,18 @@ Prompt Engineering/
 
 ## 样例展示
 
-### 海报类
-
-![黄鹤楼国潮波普](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E9%BB%84%E9%B9%A4%E6%A5%BC%E5%9B%BD%E6%BD%AE%E6%B3%A2%E6%99%AE%E6%B5%B7%E6%8A%A5-1.png)
-
-![武汉旅行海报](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E6%AD%A6%E6%B1%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5-1.png)
-
-![广州塔极简海报](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%B9%BF%E5%B7%9E%E5%A1%94%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5-1.png)
-
-### 建筑图生图
-
-![高端插画海报](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E9%AB%98%E7%AB%AF%E6%8F%92%E7%94%BB%E6%B5%B7%E6%8A%A5-1.png)
-
-![国潮几何插画](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%9B%BD%E6%BD%AE%E5%87%A0%E4%BD%95%E6%8F%92%E7%94%BB-1.png)
-
-![冰箱贴设计](Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%86%B0%E7%AE%B1%E8%B4%B4%E8%AE%BE%E8%AE%A1-1.png)
+<table>
+<tr>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E9%BB%84%E9%B9%A4%E6%A5%BC%E5%9B%BD%E6%BD%AE%E6%B3%A2%E6%99%AE%E6%B5%B7%E6%8A%A5-1.png" width="200"><br>黄鹤楼国潮波普</td>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E6%AD%A6%E6%B1%89%E6%97%85%E8%A1%8C%E6%B5%B7%E6%8A%A5-1.png" width="200"><br>武汉旅行海报</td>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E6%96%87%E7%94%9F%E5%9B%BE/%E6%B5%B7%E6%8A%A5%E7%B1%BB/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%B9%BF%E5%B7%9E%E5%A1%94%E6%9E%81%E7%AE%80%E6%B5%B7%E6%8A%A5-1.png" width="200"><br>广州塔极简海报</td>
+</tr>
+<tr>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E9%AB%98%E7%AB%AF%E6%8F%92%E7%94%BB%E6%B5%B7%E6%8A%A5-1.png" width="200"><br>高端插画海报</td>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%9B%BD%E6%BD%AE%E5%87%A0%E4%BD%95%E6%8F%92%E7%94%BB-1.png" width="200"><br>国潮几何插画</td>
+<td align="center"><img src="Prompt%20Engineering/%E7%94%9F%E5%9B%BE%E6%8F%90%E7%A4%BA%E8%AF%8D/%E5%9B%BE%E7%94%9F%E5%9B%BE/%E5%BB%BA%E7%AD%91/%E6%A0%B7%E4%BE%8B%E5%9B%BE%E7%89%87/%E5%86%B0%E7%AE%B1%E8%B4%B4%E8%AE%BE%E8%AE%A1-1.png" width="200"><br>冰箱贴设计</td>
+</tr>
+</table>
 
 ## 风格速览
 
